@@ -1,3 +1,3 @@
-package y1
+package cn
 
-var name = "y1"
+var name = "cn"
